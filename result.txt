@@ -1,0 +1,3 @@
+Value: 3832
+Weight: 12996
+Volume: 11.6
